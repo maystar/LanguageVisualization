@@ -14,9 +14,6 @@
       <scope_type scope_type="project_scope" module="&lt;default&gt;" model="&lt;default&gt;" />
     </option>
   </component>
-  <component name="DependencyValidationManager">
-    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
-  </component>
   <component name="ProjectModuleManager">
     <modules />
   </component>
