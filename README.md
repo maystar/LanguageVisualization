@@ -5,7 +5,7 @@ This is an extension language for the Meta Programming System of MPS (http://www
 For the visualization the PlantUML (http://plantuml.sourceforge.net) library is used. It is packed with the MPS PlantUML plugin which is shipped with the mbeddr project (http://mbeddr.com). 
 
 ##Installation
-Install the mbeddr platform plugin from [https://github.com/mbeddr/mbeddr.core/releases] and LanguageVisualization plugin from [https://github.com/maystar/LanguageVisualization/blob/master/build/artifacts/LanguageVisualization/LanguageVisualization.zip] to your plugins directory of your MPS installation or user path.
+Install the mbeddr platform plugin from [https://github.com/mbeddr/mbeddr.core/releases] and LanguageVisualization plugin from [https://github.com/maystar/LanguageVisualization/raw/master/build/artifacts/LanguageVisualization/LanguageVisualization.zip] to your plugins directory of your MPS installation or user path.
 
 ##Features
 - Map language structure concept to UML classes
