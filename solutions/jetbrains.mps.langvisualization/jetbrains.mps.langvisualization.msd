@@ -12,7 +12,7 @@
     <dependency reexport="false">498d89d2-c2e9-11e2-ad49-6cf049e62fe5(MPS.IDEA)</dependency>
     <dependency reexport="false">742f6602-5a2f-4313-aa6e-ae1cd4ffdc61(MPS.Platform)</dependency>
     <dependency reexport="false">d4280a54-f6df-4383-aa41-d1b2bffa7eb1(com.mbeddr.core.base)</dependency>
-    <dependency reexport="false">c0488c1e-322f-4f38-92d4-5520a7ce96c1(com.mbeddr.plantuml.pluginSolution)</dependency>
+    <dependency reexport="false">c0488c1e-322f-4f38-92d4-5520a7ce96c1(com.mbeddr.mpsutil.plantuml.pluginSolution)</dependency>
     <dependency reexport="false">019b622b-0aef-4dd3-86d0-4eef01f3f6bb(jetbrains.mps.ide)</dependency>
     <dependency reexport="false">ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)</dependency>
     <dependency reexport="false">671fae57-a26e-4040-a1a3-542a26fc8226(jetbrains.mps.langvisualization)</dependency>
