@@ -1,11 +1,12 @@
 LanguageVisualization
 =====================
 
-This is an extension language for the Meta Programming System of MPS (http://www.jetbrains.com/mps). It can be used to show the structure of a language as UML class diagram.
-For the visualization the PlantUML (http://plantuml.sourceforge.net) library is used. It is packed with the MPS PlantUML plugin which is shipped with the mbeddr project (http://mbeddr.com). 
+This is an extension language for the [Meta Programming System of jetbrains] (http://www.jetbrains.com/mps). It can be used to show the structure of a language as UML class diagram.
+For the visualization the [PlantUML] (http://plantuml.sourceforge.net) library is used. It is packed with the MPS PlantUML plugin which is shipped with the [mbeddr project] (http://mbeddr.com). 
 
 ##Installation
-Install the mbeddr platform plugin from [https://github.com/mbeddr/mbeddr.core/releases] and LanguageVisualization plugin from [https://github.com/maystar/LanguageVisualization/raw/master/build/artifacts/LanguageVisualization/LanguageVisualization.zip] to your plugins directory of your MPS installation or user path.
+Install the mbeddr platform plugin from https://github.com/mbeddr/mbeddr.core/releases and LanguageVisualization plugin from https://github.com/maystar/LanguageVisualization/raw/master/build/artifacts/LanguageVisualization/LanguageVisualization.zip to your plugins directory of your MPS installation or user path .
+Additionally you need a working [Graphviz] (http://graphviz.org) installation on your system.
 
 ##Features
 - Map language structure concept to UML classes
