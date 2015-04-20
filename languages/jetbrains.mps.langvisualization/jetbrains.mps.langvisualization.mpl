@@ -13,9 +13,7 @@
           <sourceRoot location="." />
         </modelRoot>
       </models>
-      <external-templates>
-        <generator generatorUID="b8e4beec-8383-4fb9-b0bb-9d1c9c159cfc(jetbrains.mps.lang.structure#1170324972255)" />
-      </external-templates>
+      <external-templates />
       <dependencies>
         <dependency reexport="false">671fae57-a26e-4040-a1a3-542a26fc8226(jetbrains.mps.langvisualization)</dependency>
       </dependencies>
