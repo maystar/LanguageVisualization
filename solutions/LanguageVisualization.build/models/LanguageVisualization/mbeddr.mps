@@ -7,7 +7,7 @@
   </languages>
   <imports>
     <import index="ffeo" ref="r:874d959d-e3b4-4d04-b931-ca849af130dd(jetbrains.mps.ide.build)" />
-    <import index="rnv7" ref="r:25d73da3-059c-464e-8c7d-e2854813a3fb(mps-apache-commons.build)" />
+    <import index="rnv7" ref="r:25d73da3-059c-464e-8c7d-e2854813a3fb(mps-apache-commons.build)" implicit="true" />
   </imports>
   <registry>
     <language id="798100da-4f0a-421a-b991-71f8c50ce5d2" name="jetbrains.mps.build">
@@ -172,9 +172,6 @@
       </node>
       <node concept="m$_yC" id="1KhUoclcmCi" role="m$_yJ">
         <ref role="m$_y1" to="ffeo:5CFKsRWBBql" resolve="jetbrains.mps.execution.api" />
-      </node>
-      <node concept="m$_yC" id="1KhUoclcmCj" role="m$_yJ">
-        <ref role="m$_y1" to="rnv7:4nVhWYPmNYr" resolve="org.apache.commons" />
       </node>
       <node concept="3_J27D" id="1KhUoclcmCk" role="m_cZH">
         <node concept="3Mxwew" id="1KhUoclcmCl" role="3MwsjC">
@@ -2273,9 +2270,6 @@
       <node concept="398BVA" id="1KhUoclcmNo" role="2JcizS">
         <ref role="398BVh" node="1KhUoclcmMs" resolve="mps.home" />
       </node>
-    </node>
-    <node concept="2sgV4H" id="1KhUoclcmNp" role="1l3spa">
-      <ref role="1l3spb" to="rnv7:4nVhWYPmNY9" resolve="mps-apache-commons" />
     </node>
   </node>
 </model>
