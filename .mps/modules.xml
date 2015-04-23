@@ -2,6 +2,7 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/jetbrains.mps.generatorvisualization/jetbrains.mps.generatorvisualization.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/jetbrains.mps.langvisualization/jetbrains.mps.langvisualization.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/LanguageVisualization.build/LanguageVisualization.build.msd" folder="" />
     </projectModules>
