@@ -7,15 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5590f457-f8df-4cca-a760-ce992cfa42ca" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/LanguageVisualization.build/models/LanguageVisualization/mbeddr.mps" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/LanguageVisualization.build/LanguageVisualization.build.msd" afterPath="$PROJECT_DIR$/solutions/LanguageVisualization.build/LanguageVisualization.build.msd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/LanguageVisualization.build/models/LanguageVisualization/build.mps" afterPath="$PROJECT_DIR$/solutions/LanguageVisualization.build/models/LanguageVisualization/build.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/artifacts/LanguageVisualization/LanguageVisualization.zip" afterPath="$PROJECT_DIR$/build/artifacts/LanguageVisualization/LanguageVisualization.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
     </list>
     <list id="3c75bb09-858d-419d-aef1-9f25c55ed737" name="generated" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/LanguageVisualization.build/source_gen/LanguageVisualization/build/LanguageVisualization.xml" afterPath="$PROJECT_DIR$/solutions/LanguageVisualization.build/source_gen/LanguageVisualization/build/LanguageVisualization.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/jetbrains.mps.langvisualization/source_gen/jetbrains/mps/langvisualization/editor/LanguageVisualization_Editor.java" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.langvisualization/source_gen/jetbrains/mps/langvisualization/editor/LanguageVisualization_Editor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/jetbrains.mps.langvisualization/source_gen.caches/jetbrains/mps/langvisualization/editor/dependencies" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.langvisualization/source_gen.caches/jetbrains/mps/langvisualization/editor/dependencies" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/LanguageVisualization.build/source_gen.caches/LanguageVisualization/build/generated" afterPath="$PROJECT_DIR$/solutions/LanguageVisualization.build/source_gen.caches/LanguageVisualization/build/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/jetbrains.mps.langvisualization/classes_gen/jetbrains/mps/langvisualization/editor/trace.info" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.langvisualization/classes_gen/jetbrains/mps/langvisualization/editor/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/jetbrains.mps.langvisualization/source_gen/jetbrains/mps/langvisualization/editor/trace.info" afterPath="$PROJECT_DIR$/languages/jetbrains.mps.langvisualization/source_gen/jetbrains/mps/langvisualization/editor/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/LanguageVisualization.build/classes_gen/LanguageVisualization/build/trace.info" afterPath="$PROJECT_DIR$/solutions/LanguageVisualization.build/classes_gen/LanguageVisualization/build/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/LanguageVisualization.build/source_gen/LanguageVisualization/build/trace.info" afterPath="$PROJECT_DIR$/solutions/LanguageVisualization.build/source_gen/LanguageVisualization/build/trace.info" />
     </list>
@@ -197,7 +199,7 @@
       <list>
         <TabState>
           <option name="title" value="Console" />
-          <option name="history" value="kaurqQAABAAHKGfsEhYHu0rymdFJbJPsie8AABhUZW1wTW9kZWxfMjIyMjUzMTM5OTUzNDQXSNw2ZGjASEL6tNQpoxxDiX4AAC5UZW1wTW9kdWxlZGMzNjY0NjgtYzA0OC00MmZhLWI0ZDQtMjlhMzFjNDM4OTdl/////6urq6taWlpaAALOq1GVJepPIpuSEDuVyowMAAAXamV0YnJhaW5zLm1wcy5sYW5nLmNvcmUAAQAAARA5bqqkAAANSU5hbWVkQ29uY2VwdAASAAEAAAEQOW7AQQAABG5hbWUAAAAA3hrYbW5QSgKzBtTRf2TDdQAAGmpldGJyYWlucy5tcHMuY29uc29sZS5iYXNlAAMV+zQFH3JaLAAAC0NvbnNvbGVSb290ABIAAAAAAAIV+zQFH3JbrwAAB2hpc3RvcnkAFfs0BR9yW7EAAA1jb21tYW5kSG9sZGVyAATicWCstEhLAAANQ29tbWFuZEhvbGRlcgASAAAAAAAACoNfKMGqAr4AAAdIaXN0b3J5ABIAAAAAAAClpaWlAAXeGthtblBKArMG1NF/ZMN1AQAAAAX/////8maR0g3vTAauxiy5DErwpAAAHWpldGJyYWlucy5tcHMuY29uc29sZS5zY3JpcHRz/////xqFVMTrhEO6jDRvDZDG51oAAB9qZXRicmFpbnMubXBzLmNvbnNvbGUuYmxDb21tYW5k/////6Xk3lNGo0TaqrNo/fHDTtAAACFqZXRicmFpbnMubXBzLmNvbnNvbGUuaWRlQ29tbWFuZHP/////mVpzlH92S4upKcU0SHCBBgAAJmpldGJyYWlucy5tcHMuY29uc29sZS5pbnRlcm5hbENvbW1hbmRz/////wAAAAEXSPvCXdJdpEg6ixlwko4bYtcAACRqZXRicmFpbnMubXBzLmRldmtpdC5nZW5lcmFsLXB1cnBvc2UAAAAFByg1mx0rd8RG35vysly+oyJUAAAkamV0YnJhaW5zLm1wcy5jb25zb2xlLmJhc2Uuc3RydWN0dXJlcP////8HKOcS81NcPEKIrc6HyValL/sAACdqZXRicmFpbnMubXBzLmNvbnNvbGUuc2NyaXB0cy5zdHJ1Y3R1cmVw/////wcok1ug7nKRTKqoB9duj8aTkQAAKWpldGJyYWlucy5tcHMuY29uc29sZS5ibENvbW1hbmQuc3RydWN0dXJlcP////8HKBNaYG8DdkxcmrhAMPBRoGIAACtqZXRicmFpbnMubXBzLmNvbnNvbGUuaWRlQ29tbWFuZHMuc3RydWN0dXJlcP////8HKJBEUgapc0wdt2Aw5cd7dJcAADBqZXRicmFpbnMubXBzLmNvbnNvbGUuaW50ZXJuYWxDb21tYW5kcy5zdHJ1Y3R1cmVw/////7q6uroAAAABAAEYeQoXvGX9c7///3sAAAAAAAAAAAACAAMYeQoXvGX9c8AAAHsAAAAAAAAAAAAAfQACGHkKF7xl/XPBAAF7AAEAAAEAAAAJAAAAAAAAAAB9fQ==" />
+          <option name="history" value="kaurqQAABAAHKJob03CKlkKDkj6RXGDRTh4AABhUZW1wTW9kZWxfMjMxNTYyMDUyMDg3OTcXSNPN2vZtg0xFqTHFfolNuJ0AAC5UZW1wTW9kdWxlZDNjZGRhZjYtNmQ4My00YzQ1LWE5MzEtYzU3ZTg5NGRiODlk/////6urq6taWlpaAALOq1GVJepPIpuSEDuVyowMAAAXamV0YnJhaW5zLm1wcy5sYW5nLmNvcmUAAQAAARA5bqqkAAANSU5hbWVkQ29uY2VwdAASAAEAAAEQOW7AQQAABG5hbWUAAAAA3hrYbW5QSgKzBtTRf2TDdQAAGmpldGJyYWlucy5tcHMuY29uc29sZS5iYXNlAAMV+zQFH3JaLAAAC0NvbnNvbGVSb290ABIAAAAAAAIV+zQFH3JbrwAAB2hpc3RvcnkAFfs0BR9yW7EAAA1jb21tYW5kSG9sZGVyAATicWCstEhLAAANQ29tbWFuZEhvbGRlcgASAAAAAAAACoNfKMGqAr4AAAdIaXN0b3J5ABIAAAAAAAClpaWlAAXeGthtblBKArMG1NF/ZMN1AQAAAAX/////8maR0g3vTAauxiy5DErwpAAAHWpldGJyYWlucy5tcHMuY29uc29sZS5zY3JpcHRz/////xqFVMTrhEO6jDRvDZDG51oAAB9qZXRicmFpbnMubXBzLmNvbnNvbGUuYmxDb21tYW5k/////6Xk3lNGo0TaqrNo/fHDTtAAACFqZXRicmFpbnMubXBzLmNvbnNvbGUuaWRlQ29tbWFuZHP/////mVpzlH92S4upKcU0SHCBBgAAJmpldGJyYWlucy5tcHMuY29uc29sZS5pbnRlcm5hbENvbW1hbmRz/////wAAAAEXSPvCXdJdpEg6ixlwko4bYtcAACRqZXRicmFpbnMubXBzLmRldmtpdC5nZW5lcmFsLXB1cnBvc2UAAAAFByg1mx0rd8RG35vysly+oyJUAAAkamV0YnJhaW5zLm1wcy5jb25zb2xlLmJhc2Uuc3RydWN0dXJlcP////8HKOcS81NcPEKIrc6HyValL/sAACdqZXRicmFpbnMubXBzLmNvbnNvbGUuc2NyaXB0cy5zdHJ1Y3R1cmVw/////wcok1ug7nKRTKqoB9duj8aTkQAAKWpldGJyYWlucy5tcHMuY29uc29sZS5ibENvbW1hbmQuc3RydWN0dXJlcP////8HKBNaYG8DdkxcmrhAMPBRoGIAACtqZXRicmFpbnMubXBzLmNvbnNvbGUuaWRlQ29tbWFuZHMuc3RydWN0dXJlcP////8HKJBEUgapc0wdt2Aw5cd7dJcAADBqZXRicmFpbnMubXBzLmNvbnNvbGUuaW50ZXJuYWxDb21tYW5kcy5zdHJ1Y3R1cmVw/////7q6uroAAAABAAEYUw3j2QQykhv//3sAAAAAAAAAAAACAAMYUw3j2QQykhwAAHsAAAAAAAAAAAAAfQACGFMN49kEMpIdAAF7AAEAAAEAAAAJAAAAAAAAAAB9fQ==" />
         </TabState>
       </list>
     </option>
@@ -252,7 +254,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="MPS3.2_b" />
       </map>
     </option>
   </component>
@@ -529,8 +531,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="FileSystem" />
-      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -548,10 +548,6 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jetbrains.mps.langvisualization">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Empty">
@@ -562,17 +558,15 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jetbrains.mps.generatorvisualization">
+            <PATH_ELEMENT USER_OBJECT="visualization.sandbox">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
+            <PATH_ELEMENT USER_OBJECT="modhdl">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
+            <PATH_ELEMENT USER_OBJECT="modhdl.sandbox.adder">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -601,6 +595,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Favorites" />
+      <pane id="FileSystem" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -612,19 +608,24 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="MPS.MPS Debug">
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <MyState>
-        <option name="mySettings">
-          <RemoteConnectionSettings>
-            <option name="hostName" value="localhost" />
-            <option name="port" value="5005" />
-            <option name="sharedMemoryAddress" value="" />
-            <option name="suspend" value="false" />
-            <option name="useSockets" value="true" />
-          </RemoteConnectionSettings>
-        </option>
-      </MyState>
+  <component name="RunManager" selected="Build Script.LanguageVisualization">
+    <configuration default="false" name="LanguageVisualization" type="Build Script" factoryName="Build Script" temporary="true">
+      <MyState />
+      <myNode>
+        <MyState>
+          <option name="myNodeId" value="6326568139134901125" />
+          <option name="myModelId" value="r:dfa86e80-bad6-4d17-8d18-59d66764a3e7(LanguageVisualization.build)" />
+        </MyState>
+      </myNode>
+      <mySettings>
+        <MyState>
+          <option name="myUseOtherAntLocation" value="false" />
+          <option name="myOtherAntLocation" />
+          <option name="myAntOptions" />
+        </MyState>
+      </mySettings>
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
@@ -661,6 +662,23 @@
       </myJavaRunParameters>
       <method />
     </configuration>
+    <configuration default="true" type="Build Script" factoryName="Build Script">
+      <MyState />
+      <myNode>
+        <MyState>
+          <option name="myNodeId" />
+          <option name="myModelId" />
+        </MyState>
+      </myNode>
+      <mySettings>
+        <MyState>
+          <option name="myUseOtherAntLocation" value="false" />
+          <option name="myOtherAntLocation" />
+          <option name="myAntOptions" />
+        </MyState>
+      </mySettings>
+      <method />
+    </configuration>
     <configuration default="true" type="MPS" factoryName="MPS Instance">
       <MyState />
       <myMpsSettings>
@@ -682,39 +700,15 @@
       </myPluginsSettings>
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="MPS.MPS Debug" />
+      <item index="1" class="java.lang.String" itemvalue="Build Script.LanguageVisualization" />
     </list>
-    <configuration name="&lt;template&gt;" type="Application" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Build Script.LanguageVisualization" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -742,11 +736,11 @@
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Context Sidebar" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32929105" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929105" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929105" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929105" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -790,9 +784,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="added sandbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sandbox" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -819,13 +816,6 @@
             <errorMarkers />
             <folded />
           </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.mps/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10785">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
