@@ -39,7 +39,9 @@
       <concept id="7389400916848050060" name="jetbrains.mps.build.structure.BuildLayout_NamedContainer" flags="ng" index="3981dR">
         <child id="4380385936562148502" name="containerName" index="Nbhlr" />
       </concept>
-      <concept id="7389400916848136194" name="jetbrains.mps.build.structure.BuildFolderMacro" flags="ng" index="398rNT" />
+      <concept id="7389400916848136194" name="jetbrains.mps.build.structure.BuildFolderMacro" flags="ng" index="398rNT">
+        <child id="7389400916848144618" name="defaultPath" index="398pKh" />
+      </concept>
       <concept id="7389400916848153117" name="jetbrains.mps.build.structure.BuildSourceMacroRelativePath" flags="ng" index="398BVA">
         <reference id="7389400916848153130" name="macro" index="398BVh" />
       </concept>
@@ -120,6 +122,32 @@
     <node concept="398rNT" id="4P6ohCvELYN" role="1l3spd">
       <property role="TrG5h" value="mps_home" />
     </node>
+    <node concept="398rNT" id="SjivcT1XJK" role="1l3spd">
+      <property role="TrG5h" value="mbeddr_plattform" />
+      <node concept="55IIr" id="SjivcT1XN7" role="398pKh">
+        <node concept="2Ry0Ak" id="SjivcT1XO5" role="iGT6I">
+          <property role="2Ry0Am" value=".." />
+          <node concept="2Ry0Ak" id="SjivcT1XOB" role="2Ry0An">
+            <property role="2Ry0Am" value="mbeddr.platform" />
+            <node concept="2Ry0Ak" id="SjivcT20D1" role="2Ry0An">
+              <property role="2Ry0Am" value="build" />
+              <node concept="2Ry0Ak" id="SjivcT23tE" role="2Ry0An">
+                <property role="2Ry0Am" value="com.mbeddr.platform" />
+                <node concept="2Ry0Ak" id="SjivcT26ij" role="2Ry0An">
+                  <property role="2Ry0Am" value="build" />
+                  <node concept="2Ry0Ak" id="SjivcT2979" role="2Ry0An">
+                    <property role="2Ry0Am" value="artifacts" />
+                    <node concept="2Ry0Ak" id="SjivcT2bWp" role="2Ry0An">
+                      <property role="2Ry0Am" value="com.mbeddr.platform.build" />
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
     <node concept="2sgV4H" id="5vcv3fOs9I9" role="1l3spa">
       <ref role="1l3spb" to="ffeo:3IKDaVZmzS6" resolve="mps" />
       <node concept="398BVA" id="5vcv3fOs9Ia" role="2JcizS">
@@ -128,6 +156,9 @@
     </node>
     <node concept="2sgV4H" id="80aaqA3K5a" role="1l3spa">
       <ref role="1l3spb" to="al5i:3AVJcIMlF8l" resolve="com.mbeddr.platform" />
+      <node concept="398BVA" id="SjivcT1XOM" role="2JcizS">
+        <ref role="398BVh" node="SjivcT1XJK" resolve="mbeddr_plattform" />
+      </node>
     </node>
     <node concept="1l3spV" id="5vcv3fOs9Is" role="1l3spN">
       <node concept="3981dG" id="5vcv3fOs9It" role="39821P">
@@ -225,12 +256,6 @@
               <property role="3bR36h" value="false" />
               <ref role="3bR37D" node="5vcv3fOs9Ih" resolve="jetbrains.mps.langvisualization" />
             </node>
-          </node>
-        </node>
-        <node concept="1SiIV0" id="80aaqA3K5A" role="3bR37C">
-          <node concept="3bR9La" id="80aaqA3K5B" role="1SiIV1">
-            <property role="3bR36h" value="false" />
-            <ref role="3bR37D" to="al5i:2N1CSrzSKpi" resolve="com.mbeddr.mpsutil.plantuml.node" />
           </node>
         </node>
         <node concept="1SiIV0" id="80aaqA3K5C" role="3bR37C">

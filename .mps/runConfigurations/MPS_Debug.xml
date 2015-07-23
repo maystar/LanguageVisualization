@@ -1,0 +1,25 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MPS Debug" type="MPS" factoryName="MPS Instance">
+    <MyState />
+    <myMpsSettings>
+      <MyState>
+        <option name="myVmOptions" value="" />
+        <option name="myJrePath" value="" />
+        <option name="mySystemPath" value="$USER_HOME$/.MPSDebug32/system" />
+        <option name="myConfigurationPath" value="$USER_HOME$/.MPSDebug32/config" />
+        <option name="myOpenCurrentProject" value="true" />
+        <option name="myProjectToOpen" value="" />
+      </MyState>
+    </myMpsSettings>
+    <myPluginsSettings>
+      <MyState>
+        <option name="myPluginsToDeploy">
+          <list />
+        </option>
+      </MyState>
+    </myPluginsSettings>
+    <RunnerSettings RunnerId="Default Debug Runner" />
+    <ConfigurationWrapper RunnerId="Default Debug Runner" />
+    <method />
+  </configuration>
+</component>

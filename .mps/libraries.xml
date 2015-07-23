@@ -3,19 +3,19 @@
   <component name="ProjectLibraryManager">
     <option name="libraries">
       <map>
-        <entry key="mbeddr.build">
-          <value>
-            <Library>
-              <option name="name" value="mbeddr.build" />
-              <option name="path" value="${mbeddr.github.core.home}/code/languages/com.mbeddr.build" />
-            </Library>
-          </value>
-        </entry>
         <entry key="mbeddr.plattform">
           <value>
             <Library>
               <option name="name" value="mbeddr.plattform" />
-              <option name="path" value="${mbeddr.github.core.home}/build/com.mbeddr.platform" />
+              <option name="path" value="$PROJECT_DIR$/../mbeddr.platform" />
+            </Library>
+          </value>
+        </entry>
+        <entry key="modhdl">
+          <value>
+            <Library>
+              <option name="name" value="modhdl" />
+              <option name="path" value="${modhdl.home}" />
             </Library>
           </value>
         </entry>
